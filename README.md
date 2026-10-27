@@ -13,7 +13,7 @@ A full Gorilla Tag-inspired movement system for Roblox, designed to replicate th
 
 1. Download the `.rbxm` file from this repository.
 2. Open your game in Roblox Studio.
-3. In the Explorer, right-click `Workspace`.
+3. In the Top Left click File Then `Import Roblox File`.
 4. Select **Insert from File**.
 5. Select the downloaded `.rbxm` file.
 6. Place the required scripts, models, and assets into their correct folders.
